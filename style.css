@@ -1443,6 +1443,13 @@ section {
 
 
 
+
+/* Experience Section - Alternate Background */
+.experience {
+    background: var(--second-bg-color);
+}
+
+
 /* Experience Section Background */
 .experience {
     background: var(--bg-color);
