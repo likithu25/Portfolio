@@ -1444,12 +1444,12 @@ section {
 
 
 
-/* Experience Section - Light Alternate Background */
+
+/* Experience background same as Skills page */
 .experience {
-    background: #112e42;
+    background-color: #081b29;
 }
 
-/* Experience Section Background */
-.experience {
-    background: var(--bg-color);
+.skills {
+    background-color: #112e42;
 }
