@@ -1594,3 +1594,9 @@ section {
         font-size: 1.7rem;
     }
 }
+
+
+/* Experience Page Background */
+.experience {
+    background-color: #123044 !important;
+}
