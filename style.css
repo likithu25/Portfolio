@@ -1227,6 +1227,38 @@ section {
 
 
 
+.home-content .text-animate {
+    position: relative;
+    width: 100%;
+    max-width: 60rem;
+    overflow: hidden;
+}
+
+.home-content .text-animate h3 {
+    position: relative;
+    display: inline-block;
+    white-space: nowrap;
+    font-size: 3.2rem;
+    font-weight: 700;
+    color: var(--main-color);
+    -webkit-text-stroke: .7px var(--main-color);
+    background-position: 0 0;
+}
+
+.home-content .text-animate h3::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    background: var(--bg-color);
+    border-left: 2px solid var(--main-color);
+    animation: typing 4s linear infinite;
+    animation-delay: 1s;
+}
+
+
 
 
 
