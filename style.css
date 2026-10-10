@@ -1596,7 +1596,7 @@ section {
 }
 
 
-/* Experience Page Background */
-.experience {
+section.experience#experience {
+    background: #123044 !important;
     background-color: #123044 !important;
 }
