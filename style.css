@@ -1375,3 +1375,17 @@ section {
     }
 }
 ```
+
+
+
+
+
+
+
+
+
+
+/* Experience Section Background */
+.experience {
+    background: var(--bg-color);
+}
