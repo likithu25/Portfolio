@@ -1608,3 +1608,21 @@ section.experience#experience {
     background: #123044 !important;
     background-color: #123044 !important;
 }
+
+
+
+
+/* Skills Page - Dark Background */
+section.skills#skills {
+    background: #081b29 !important;
+}
+
+/* Projects Page - Experience Background Color */
+section.projects#projects {
+    background: #123044 !important;
+}
+
+/* Contact Page - Same Color as Skills */
+section.contact#contact {
+    background: #081b29 !important;
+}
