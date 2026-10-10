@@ -1626,3 +1626,23 @@ section.projects#projects {
 section.contact#contact {
     background: #081b29 !important;
 }
+
+
+
+
+
+
+/* Skills - Dark background from your image */
+section.skills {
+    background: #091b27 !important;
+}
+
+/* Projects - Same background as Experience */
+section.project {
+    background: #123044 !important;
+}
+
+/* Contact - Same dark background as Skills */
+section.contact {
+    background: #091b27 !important;
+}
