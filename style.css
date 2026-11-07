@@ -1646,3 +1646,25 @@ section.project {
 section.contact {
     background: #091b27 !important;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Remove Blue Border Around Profile Photo */
+.home-img img {
+    border: none !important;
+    outline: none !important;
+    box-shadow: none !important;
+}
